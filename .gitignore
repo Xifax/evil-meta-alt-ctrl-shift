@@ -1,0 +1,10 @@
+el-get/
+elpa/
+*.dat
+*.eld
+auto-save-list
+*.el~
+.python-environments/
+.cask/
+.emacs.desktop
+*.*~
